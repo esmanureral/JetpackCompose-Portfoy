@@ -1,6 +1,6 @@
 #  Portföy Kart Uygulaması
 
-Bu proje, **Jetpack Compose** kullanılarak geliştirilmiş bir portföy kartı uygulamasıdır. 
+Bu proje, **Jetpack Compose** kullanılarak geliştirilmiş bir portföy kartı uygulamasıdır..
 
 ## Özellikler
 - Profil resmi ve kişisel bilgilerinizi görüntüleyebilme.
